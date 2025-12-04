@@ -53,7 +53,7 @@
           <!-- Item 4 (Grand Final) -->
           <div class="relative flex flex-col md:flex-row items-start md:items-center group">
             <div class="md:w-1/2 md:pr-12 md:text-right pl-20 md:pl-0 md:order-1 order-2">
-               <span class="text-3xl font-display font-bold text-accent">2026.03.28</span>
+               <span class="text-3xl font-display font-bold text-accent">2026.04.12</span>
             </div>
             <div class="absolute left-8 md:left-1/2 w-6 h-6 bg-accent border-4 border-white shadow-lg rounded-full transform -translate-x-1/2 z-10"></div>
             <div class="md:w-1/2 md:pl-12 pl-20 mt-2 md:mt-0 md:order-2 order-1">
