@@ -20,7 +20,7 @@ import CtaSection from '../components/CtaSection.vue'
 useHead({
   title: 'TEA 2026',
   meta: [
-    { name: 'description', content: '次世代のビジネスリーダーが集う、国内最大級のロボティクス・カンファレンス。' }
+    { name: 'description', content: 'TEA (Technology, Entertainment, Art) - 次世代イノベーター及び新たな価値を創出することを理念とするプロジェクト。' }
   ]
 })
 </script>

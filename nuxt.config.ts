@@ -4,8 +4,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/google-fonts',
+    '@nuxtjs/sitemap'
   ],
+  site: {
+    url: 'https://tpinc-bsmc.com',
+  },
   googleFonts: {
     families: {
       'Noto+Sans+JP': [400, 500, 700],
